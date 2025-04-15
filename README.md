@@ -104,12 +104,12 @@ hobbies: ["Hiking", "Training", "Gaming", "IoT"]
 ### Open Source Stats
 <p align="center">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vaibhavdhingani&show_icons=true&count_private=true&theme=graywhite&hide_border=true&hide=issues,contribs">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdhingani&layout=compact&hide_border=true&theme=graywhite&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=vaibhavdhingani&theme=graywhite&hide_border=true"><br>
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdhingani&layout=compact&hide_border=true&theme=graywhite&langs_count=6&hide=tex,css,php">
+<img src ="https://git-hub-streak-stats.vercel.app?user=vaibhavdhingani&theme=graywhite&hide_border=true"><br>
 <a style="border: 2px solid #000000;" href="https://github.com/vaibhavdhingani"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavdhingani&theme=graywhite" width="100%" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavdhingani&area=true&bg_color=ffffff&color=000000&line=000000&point=bdbdbd&hide_title=true&area_color=000000&height=200" width="100%"/>
 </a></p>
 
 ##
 <p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="right" /></a></p>
 <p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="left" /></a></p>
-<p align="center"><a href="https://github.com/vaibhavdhingani"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%20!!;Take%20A%20Look%20At%20My%20Repositories%20%20⭐👇;Follow..%20%20%20%20Your%20Dreams%20😎;&font=Arial&center=true&color=000000&vCenter=true&size=12"></a></p>
+<p align="center"><a href="https://github.com/vaibhavdhingani"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%20!!;Take%20A%20Look%20At%20My%20Repositories%20%20⭐👇;Follow..%20%20%20%20Your%20Dreams%20!!;&font=Arial&center=true&color=000000&vCenter=true&size=12"></a></p>
