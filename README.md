@@ -103,9 +103,9 @@ hobbies: ["Hiking", "Training", "Gaming", "IoT"]
 
 ### Open Source Stats
 <p align="center">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vaibhavdhingani&show_icons=true&count_private=true&theme=graywhite&hide_border=true&hide=issues,contribs">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdhingani&layout=compact&hide_border=true&theme=graywhite&langs_count=6&hide=tex,css,php">
-<img src ="https://git-hub-streak-stats.vercel.app?user=vaibhavdhingani&theme=graywhite&hide_border=true"><br>
+<img height="50%" width="auto" src ="https://github-readme-stats-fast.vercel.app/api?username=vaibhavdhingani&show_icons=true&count_private=true&theme=graywhite&hide_border=true&hide=issues,contribs">
+<img height="50%" width="auto" src ="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaibhavdhingani&layout=compact&hide_border=true&theme=graywhite&langs_count=6&hide=tex,css,php">
+<img src ="https://git-hub-streak-stats-fast.vercel.app?user=vaibhavdhingani&theme=graywhite&hide_border=true"><br>
 <a style="border: 2px solid #000000;" href="https://github.com/vaibhavdhingani"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavdhingani&theme=graywhite" width="100%" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavdhingani&area=true&bg_color=ffffff&color=000000&line=000000&point=bdbdbd&hide_title=true&area_color=000000&height=200" width="100%"/>
 </a></p>
 
